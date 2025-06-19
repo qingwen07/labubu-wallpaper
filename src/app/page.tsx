@@ -338,8 +338,8 @@ export default function Home() {
       {/* 用户评价 */}
       <section className="max-w-6xl mx-auto px-4 py-12 md:py-20">
         <h2 className="text-2xl md:text-3xl font-bold mb-8 text-center">用户评价</h2>
-        <div className="overflow-x-auto scrollbar-hide">
-          <div className="flex gap-6 md:grid md:grid-cols-3 md:gap-8">
+        <div>
+          <div className="flex flex-col gap-6 md:grid md:grid-cols-3 md:gap-8 px-1">
             {/* 评价卡片，带头像、昵称、身份、动画 */}
             {[
               { avatar: "https://i.ibb.co/0j4wbQHJ/user1.png", name: "Njn_95", role: "Labubu 粉丝", text: "终于成功了。" },
@@ -351,7 +351,7 @@ export default function Home() {
             ].map((item, i) => (
               <div
                 key={i}
-                className="min-w-[260px] max-w-xs bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-6 flex flex-col items-center gap-3 opacity-0 animate-fadein"
+                className="w-full md:w-auto bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-6 flex flex-col items-center gap-3 opacity-0 animate-fadein"
                 style={{ animationDelay: `${i * 0.1 + 0.2}s`, animationFillMode: 'forwards' }}
               >
                 <Image src={item.avatar} alt={item.name} width={48} height={48} className="rounded-full border border-gray-200 dark:border-gray-700 mb-2" unoptimized />
