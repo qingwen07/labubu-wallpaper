@@ -160,7 +160,7 @@ export default function Home() {
             {/* 静态壁纸卡片1 */}
             <div className="max-w-[350px] w-full bg-white border border-[#e5cfc2] rounded-2xl shadow p-6 flex flex-col items-center">
               <div className="w-full bg-[#f7e6df] rounded-2xl px-1 pb-0 mb-4 flex justify-center items-center" style={{height: '568px'}}>
-                <Image src="https://i.ibb.co/sdfvKQWd/gallery4.jpg" alt="四季 Labubu" width={320} height={568} className="rounded-2xl w-full h-[568px] object-cover mb-0" unoptimized />
+                <Image src="https://i.ibb.co/5XPgg4zS/gallery4.jpg" alt="四季 Labubu" width={320} height={568} className="rounded-2xl w-full h-[568px] object-cover mb-0" unoptimized />
               </div>
               <h3 className="font-bold text-lg mb-1">四季 Labubu</h3>
               <p className="text-gray-600 mb-4">不同季节主题的 Labubu</p>
@@ -178,7 +178,7 @@ export default function Home() {
             {/* 静态壁纸卡片3 */}
             <div className="max-w-[350px] w-full bg-white border border-[#e5cfc2] rounded-2xl shadow p-6 flex flex-col items-center">
               <div className="w-full bg-[#f7e6df] rounded-2xl px-1 pb-0 mb-4 flex justify-center items-center" style={{height: '568px'}}>
-                <Image src="https://i.ibb.co/5gXhGLy9/gallery6.jpg" alt="暗黑 Labubu" width={320} height={568} className="rounded-2xl w-full h-[568px] object-cover mb-0" unoptimized />
+                <Image src="https://i.ibb.co/S438gHZ0/gallery6.jpg" alt="暗黑 Labubu" width={320} height={568} className="rounded-2xl w-full h-[568px] object-cover mb-0" unoptimized />
               </div>
               <h3 className="font-bold text-lg mb-1">暗黑 Labubu</h3>
               <p className="text-gray-600 mb-4">适合暗黑模式的 Labubu</p>
@@ -205,7 +205,7 @@ export default function Home() {
             {/* 静态壁纸卡片6 */}
             <div className="max-w-[350px] w-full bg-white border border-[#e5cfc2] rounded-2xl shadow p-6 flex flex-col items-center">
               <div className="w-full bg-[#f7e6df] rounded-2xl px-1 pb-0 mb-4 flex justify-center items-center" style={{height: '568px'}}>
-                <Image src="https://i.ibb.co/wFRBFB80/gallery9.jpg" alt="暗黑 Labubu" width={320} height={568} className="rounded-2xl w-full h-[568px] object-cover mb-0" unoptimized />
+                <Image src="https://i.ibb.co/Nd6YR92x/gallery9.jpg" alt="暗黑 Labubu" width={320} height={568} className="rounded-2xl w-full h-[568px] object-cover mb-0" unoptimized />
               </div>
               <h3 className="font-bold text-lg mb-1">暗黑 Labubu</h3>
               <p className="text-gray-600 mb-4">适合暗黑模式的 Labubu</p>
