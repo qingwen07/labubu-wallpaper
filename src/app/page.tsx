@@ -14,6 +14,7 @@ export default function Home() {
             <li><a href="#features" className="hover:text-pink-500 transition">功能特点</a></li>
             <li><a href="#howto" className="hover:text-pink-500 transition">使用方法</a></li>
             <li><a href="#gallery" className="hover:text-pink-500 transition">图库</a></li>
+            <li><a href="#free-download" className="hover:text-pink-500 transition">免费下载 Labubu 壁纸</a></li>
           </ul>
           <a href="#gallery" className="md:hidden px-3 py-1 rounded bg-pink-500 text-white font-semibold">图库</a>
         </nav>
