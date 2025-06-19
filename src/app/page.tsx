@@ -163,7 +163,7 @@ export default function Home() {
               </div>
               <h3 className="font-bold text-lg mb-1">四季 Labubu</h3>
               <p className="text-gray-600 mb-4">不同季节主题的 Labubu</p>
-              <a href="#" className="w-full px-4 py-2 rounded-lg bg-[#e5cfc2] hover:bg-[#e0bfa7] text-[#3d2b1f] font-semibold text-center transition">保存</a>
+              <a href="https://i.ibb.co/sdfvKQWd/gallery4.jpg" target="_blank" className="w-full px-4 py-2 rounded-lg bg-[#e5cfc2] hover:bg-[#e0bfa7] text-[#3d2b1f] font-semibold text-center transition">保存</a>
             </div>
             {/* 静态壁纸卡片2 */}
             <div className="max-w-[350px] w-full bg-white border border-[#e5cfc2] rounded-2xl shadow p-6 flex flex-col items-center">
@@ -172,7 +172,7 @@ export default function Home() {
               </div>
               <h3 className="font-bold text-lg mb-1">动态 Labubu</h3>
               <p className="text-gray-600 mb-4">动画动态壁纸</p>
-              <a href="#" className="w-full px-4 py-2 rounded-lg bg-[#e5cfc2] hover:bg-[#e0bfa7] text-[#3d2b1f] font-semibold text-center transition">保存</a>
+              <a href="https://i.ibb.co/7dkM2zD8/gallery5.jpg" target="_blank" className="w-full px-4 py-2 rounded-lg bg-[#e5cfc2] hover:bg-[#e0bfa7] text-[#3d2b1f] font-semibold text-center transition">保存</a>
             </div>
             {/* 静态壁纸卡片3 */}
             <div className="max-w-[350px] w-full bg-white border border-[#e5cfc2] rounded-2xl shadow p-6 flex flex-col items-center">
@@ -181,7 +181,7 @@ export default function Home() {
               </div>
               <h3 className="font-bold text-lg mb-1">暗黑 Labubu</h3>
               <p className="text-gray-600 mb-4">适合暗黑模式的 Labubu</p>
-              <a href="#" className="w-full px-4 py-2 rounded-lg bg-[#e5cfc2] hover:bg-[#e0bfa7] text-[#3d2b1f] font-semibold text-center transition">保存</a>
+              <a href="https://i.ibb.co/5gXhGLy9/gallery6.jpg" target="_blank" className="w-full px-4 py-2 rounded-lg bg-[#e5cfc2] hover:bg-[#e0bfa7] text-[#3d2b1f] font-semibold text-center transition">保存</a>
             </div>
             {/* 静态壁纸卡片4 */}
             <div className="max-w-[350px] w-full bg-white border border-[#e5cfc2] rounded-2xl shadow p-6 flex flex-col items-center">
@@ -190,7 +190,7 @@ export default function Home() {
               </div>
               <h3 className="font-bold text-lg mb-1">赛车 Labubu</h3>
               <p className="text-gray-600 mb-4">动画动态壁纸</p>
-              <a href="#" className="w-full px-4 py-2 rounded-lg bg-[#e5cfc2] hover:bg-[#e0bfa7] text-[#3d2b1f] font-semibold text-center transition">保存</a>
+              <a href="https://i.ibb.co/ZyMB17j/gallery7.jpg" target="_blank" className="w-full px-4 py-2 rounded-lg bg-[#e5cfc2] hover:bg-[#e0bfa7] text-[#3d2b1f] font-semibold text-center transition">保存</a>
             </div>
             {/* 静态壁纸卡片5 */}
             <div className="max-w-[350px] w-full bg-white border border-[#e5cfc2] rounded-2xl shadow p-6 flex flex-col items-center">
@@ -199,7 +199,7 @@ export default function Home() {
               </div>
               <h3 className="font-bold text-lg mb-1">暗黑 Labubu</h3>
               <p className="text-gray-600 mb-4">适合暗黑模式的 Labubu</p>
-              <a href="#" className="w-full px-4 py-2 rounded-lg bg-[#e5cfc2] hover:bg-[#e0bfa7] text-[#3d2b1f] font-semibold text-center transition">保存</a>
+              <a href="https://i.ibb.co/rGy7zMSC/gallery8.jpg" target="_blank" className="w-full px-4 py-2 rounded-lg bg-[#e5cfc2] hover:bg-[#e0bfa7] text-[#3d2b1f] font-semibold text-center transition">保存</a>
             </div>
             {/* 静态壁纸卡片6 */}
             <div className="max-w-[350px] w-full bg-white border border-[#e5cfc2] rounded-2xl shadow p-6 flex flex-col items-center">
@@ -208,7 +208,7 @@ export default function Home() {
               </div>
               <h3 className="font-bold text-lg mb-1">暗黑 Labubu</h3>
               <p className="text-gray-600 mb-4">适合暗黑模式的 Labubu</p>
-              <a href="#" className="w-full px-4 py-2 rounded-lg bg-[#e5cfc2] hover:bg-[#e0bfa7] text-[#3d2b1f] font-semibold text-center transition">保存</a>
+              <a href="https://i.ibb.co/wFRBFB80/gallery9.jpg" target="_blank" className="w-full px-4 py-2 rounded-lg bg-[#e5cfc2] hover:bg-[#e0bfa7] text-[#3d2b1f] font-semibold text-center transition">保存</a>
             </div>
           </div>
         </div>
@@ -291,7 +291,14 @@ export default function Home() {
                   <div className="flex items-center gap-2 mb-1 text-gray-800"><span>✓</span> 无水印</div>
                 </div>
               </div>
-              <button className="bg-[#e5cfc2] hover:bg-[#e0bfa7] text-[#3d2b1f] font-bold py-3 rounded-lg transition mb-2 mt-auto">立即下载 ⬇</button>
+              <a
+                href="https://pan.quark.cn/s/6bc7adf7b392"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-[#e5cfc2] hover:bg-[#e0bfa7] text-[#3d2b1f] font-bold py-3 rounded-lg transition mb-2 mt-auto block text-center"
+              >
+                立即下载 ⬇
+              </a>
               <div className="text-xs text-gray-500">永久免费！</div>
             </div>
             {/* 高级版卡片 */}
@@ -314,7 +321,14 @@ export default function Home() {
                   <div className="flex items-center gap-2 mb-1 text-gray-800"><span>✓</span> 详细设置教程</div>
                 </div>
               </div>
-              <button className="bg-[#e5cfc2] hover:bg-[#e0bfa7] text-[#3d2b1f] font-bold py-3 rounded-lg transition mb-2 mt-auto flex items-center justify-center gap-2">分享获取高级版 <span className="text-lg">🔗</span></button>
+              <a
+                href="https://pan.quark.cn/s/a2ebc0f9cdc9"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-[#e5cfc2] hover:bg-[#e0bfa7] text-[#3d2b1f] font-bold py-3 rounded-lg transition mb-2 mt-auto flex items-center justify-center gap-2"
+              >
+                分享获取高级版 <span className="text-lg">🔗</span>
+              </a>
               <div className="text-xs text-gray-500">限时免费</div>
             </div>
           </div>
