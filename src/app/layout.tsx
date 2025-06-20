@@ -26,7 +26,6 @@ export const metadata: Metadata = {
     "拉布布手机壁纸",
     "拉布布头像",
     "拉布布图片",
-    "labubu 壁纸",
     "拉布布高清壁纸",
     "拉布布动态壁纸",
     "iPhone 拉布布壁纸",
